@@ -1,2 +1,3 @@
 cluster_venv/
+test_dataset*
 etalon_dataset.csv
